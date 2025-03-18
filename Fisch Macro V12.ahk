@@ -28,7 +28,7 @@ AutoLookDelay := 200
 
 ; Set to true to automatically blur the camera
 AutoBlurCamera := true
-AutoBlurDelay := 50
+AutoBlurDelay := 0
 
 ; How long to wait after fishing before restarting
 RestartDelay := 1000
